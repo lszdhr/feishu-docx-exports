@@ -1,0 +1,21 @@
+{
+  "test_time": "2025-11-14T23:00:00.293961",
+  "total_links": 1,
+  "successful": 1,
+  "failed": 0,
+  "results": [
+    {
+      "url": "https://uvw8s43wky3.feishu.cn/wiki/X9OAwWHJViGlyMkr5LrcZdZZndg",
+      "timestamp": "2025-11-14T22:59:59.288806",
+      "accessible": true,
+      "doc_type": "wiki",
+      "domain": "uvw8s43wky3.feishu.cn",
+      "export_feasible": true,
+      "notes": [
+        "✅ 飞书中国域名",
+        "✅ Wiki文档格式"
+      ],
+      "export_method": "Ctrl+P打印或页面导出按钮"
+    }
+  ]
+}
